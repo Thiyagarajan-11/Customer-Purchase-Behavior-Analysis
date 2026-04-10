@@ -86,7 +86,7 @@ The dashboard includes:
 - Top revenue-generating products  
 - Subscription vs Non-subscription spend  
 
-*(Add screenshots here after uploading)*
+
 
 ---
 
