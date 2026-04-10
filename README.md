@@ -95,11 +95,23 @@ The dashboard includes:
 ## 🧠 **Insights Summary**
 Some key findings from the analysis include:
 
-- Significant differences in spend across genders and age groups  
-- Returning and loyal customers contribute a large share of revenue  
-- Discounts drive higher spending for certain customer segments  
-- NON-Subscribed customers generally show higher average purchase amounts  
-- Certain product categories consistently outperform others in ratings and sales  
+## 🧠 Key Insights & Findings
+
+- 💰 **Male customers generated 2.1x more revenue than female customers**  
+  (₹1,57,890 vs ₹75,191) — suggesting a strong male-skewed customer base
+
+- 🎯 **839 customers used discounts AND still spent above average purchase amount**  
+  — discounts are not hurting revenue; they're attracting higher-value buyers
+
+- ⭐ **Top rated products: Gloves (3.86), Sandals (3.84), Boots (3.82)**  
+  — these are strong candidates for promotional focus
+
+- 🚚 **Express shipping customers spend 3.5% more than Standard shipping customers**  
+  (₹60.48 vs ₹58.46 avg) — speed-sensitive buyers are slightly higher value
+
+- 🔔 **Non-subscribed customers outnumber subscribers nearly 3:1**  
+  (2,847 vs 1,053) yet both groups spend almost identically (~₹59–60 avg)  
+  — subscription program is underperforming; large untapped conversion opportunity
 
 ---
 
