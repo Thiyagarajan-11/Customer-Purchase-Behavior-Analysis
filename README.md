@@ -84,7 +84,9 @@ The dashboard includes:
 - Discount usage patterns  
 - Customer segments (New / Returning / Loyal)  
 - Top revenue-generating products  
-- Subscription vs Non-subscription spend  
+- Subscription vs Non-subscription spend
+<img width="1292" height="691" alt="image" src="https://github.com/user-attachments/assets/1960473d-b133-4fca-bd91-6c48e1b75dec" />
+
 
 
 
